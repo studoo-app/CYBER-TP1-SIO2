@@ -1,6 +1,7 @@
 ![separe](https://github.com/studoo-app/.github/blob/main/profile/studoo-banner-logo.png)
-# Symfony Authentication Logs
+# CYBER TP1 SIO 2 : Gestion des logs d'authentification
 [![Version](https://img.shields.io/badge/Version-2024-blue)]()
+
 
 ## Description
 Projet contenant un système d'authentificaiton classique où les utilisateurs peuvent avoir soit le rôle `ROLE_USER`
